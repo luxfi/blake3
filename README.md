@@ -1,3 +1,7 @@
+> This is a luxfi-maintained fork of [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3); see [LUXFI-FORK.md](./LUXFI-FORK.md) for sync policy.
+
+---
+
 # BLAKE3
 
 BLAKE3 is a cryptographic hash function that is:
